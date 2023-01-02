@@ -1,2 +1,1 @@
-# hello-world
-A test repository for the first time in Github
+Describing myselft here. Wow.
